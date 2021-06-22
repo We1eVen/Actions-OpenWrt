@@ -19,3 +19,5 @@ git clone https://github.com/vernesong/OpenClash.git package/lean/OpenClash
 git clone https://github.com/project-openwrt/luci-app-unblockneteasemusic.git package/lean/luci-app-unblockneteasemusic
 git clone https://github.com/jerrykuku/lua-maxminddb.git package/lean/lua-maxminddb
 git clone https://github.com/jerrykuku/luci-app-vssr.git package/lean/luci-app-vssr
+git clone https://github.com/kenzok8/openwrt-packages.git package/openwrt-packages
+git clone https://github.com/kenzok8/small.git package/small
